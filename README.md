@@ -44,15 +44,6 @@ Para rodar os testes unitários, utilize o seguinte comando Maven:
 mvn test
 
 
-### Explicações:
 
-1. **Introdução e Funcionalidades**: Uma descrição clara do projeto e suas principais funcionalidades.
-2. **Tecnologias Usadas**: Especifica as principais ferramentas e tecnologias que foram usadas no desenvolvimento do projeto.
-3. **Como Rodar o Projeto e Testes**: Instruções para configurar e rodar o projeto localmente, além de como rodar os testes unitários.
-4. **Casos de Teste**: Um resumo dos testes realizados no projeto, dando transparência sobre os comportamentos que foram validados.
-5. **Sugestões de Melhoria**: Aponta áreas de aprimoramento no código, além de boas práticas de refatoração.
-6. **Licença**: Caso você utilize alguma licença, como MIT ou outra, inclua essa seção no final.
-
-Este formato de `README.md` deve fornecer uma boa documentação para o seu projeto. Se precisar de ajustes ou quiser incluir mais informações, posso ajudar a personalizar mais ainda!
 
 
